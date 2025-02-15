@@ -14,3 +14,5 @@ with Ruby on Rails 8.0.
 ### Disclaimer
 Any errors found in this code are entirely mine and not the authors of Getting
 Stated with Rails guide.
+
+-- Traap
