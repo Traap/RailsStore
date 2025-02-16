@@ -16,4 +16,3 @@ module Product::Notifications
     end
   end
 end
-

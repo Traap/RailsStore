@@ -13,4 +13,3 @@ class UnsubscribesController < ApplicationController
     @subscriber = Subscriber.find_by_token_for(:unsubscribe, params[:token])
   end
 end
-

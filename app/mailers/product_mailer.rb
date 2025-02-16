@@ -9,4 +9,3 @@ class ProductMailer < ApplicationMailer
     mail to: params[:subscriber].email
   end
 end
-
